@@ -1,0 +1,26 @@
+# Ignore arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+ssh-keygen -t ed25519 -C "gaahdecastro@gmail.com"
+ssh-keygen -t ed25519 -C "gaahdecastro@gmail.com".pub
+# Ignore arquivos de ambiente virtual
+venv/
+.env
+
+# Ignore pastas de build
+__pycache__/
+build/
+dist/
+
+# Ignore arquivos de logs
+*.log
+
+# Ignore credenciais ou configurações locais
+.env
+.vscode/
+
+# Ignore arquivos grandes ou desnecessários
+*.sqlite3
+*.pyc
+.idea/
+
