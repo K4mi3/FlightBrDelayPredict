@@ -1,6 +1,7 @@
 # Ignore arquivos temporários de sistema
 .DS_Store
 Thumbs.db
+dados_voo_meteorologicos.csv
 ssh-keygen -t ed25519 -C "gaahdecastro@gmail.com"
 ssh-keygen -t ed25519 -C "gaahdecastro@gmail.com".pub
 # Ignore arquivos de ambiente virtual
